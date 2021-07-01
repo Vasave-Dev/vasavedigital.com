@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\vbs_youngmind"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vasave_digital"
+	}
+}
